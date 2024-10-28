@@ -1,6 +1,6 @@
 # Enhancing Approximate Conformance Checking Accuracy with Hierarchical Clustering Model Behaviour Sampling
 
-The source code along with data and experimental results for COMP90005.
+This GitHub repository contains the source code, data, and experimental results for the COMP90005 project.
 
 The experiment result can be found at [this link](https://drive.google.com/file/d/1-Hmo3Hve3occhQ27rqf8yypqtHO5Moud/view?usp=sharing).
 
